@@ -50,6 +50,15 @@ p {
 
 @media only screen and (max-width: 375px) {
     section {
-        flex-basis: 100%
+        width: 310px;
+    }
+    img {
+        width: 280px;
+    }
+    h1 {
+        width: 300px;
+    }
+    p {
+        width: 275px;
     }
 }
