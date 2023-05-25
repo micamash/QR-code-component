@@ -15,7 +15,7 @@ body {
 
 section {
     background-color: hsl(0, 0%, 100%);
-    width: 375px;
+    width: 310px;
     min-height: 55vh;
     border-radius: 5%;
     padding: 15px 1px;
@@ -27,18 +27,19 @@ section {
 
 img {
     border-radius: 5%;
-    width: 345px;
+    width: 280px;
 }
 
 h1 {
     font-weight: 700;
-    width: 315px;
+    width: 300px;
     text-align: center;
 }
 
 p {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
+    width: 275px;
     width: 290px;
     text-align: center;
     padding-bottom: 25px;
@@ -48,17 +49,17 @@ p {
     padding-top: 50px;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (min-width: 375px) {
     section {
-        width: 310px;
+        width: 375px;
     }
     img {
-        width: 280px;
+        width: 345px;
     }
     h1 {
-        width: 300px;
+        width: 315px;
     }
     p {
-        width: 275px;
+        width: 290px;
     }
 }
