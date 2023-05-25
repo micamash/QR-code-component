@@ -30,7 +30,6 @@ img {
     width: 90%;
 }
 
-
 h1 {
     font-weight: 700;
     width: 75%;
@@ -43,12 +42,4 @@ p {
     width: 70%;
     text-align: center;
     padding-bottom: 25px;
-}
-
-@media (min-width: 375px) {
-
-}
-
-@media (min-width: 1440px) {
-
 }
