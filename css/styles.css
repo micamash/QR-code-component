@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+section {
+    background-color: hsl(0, 0%, 100%);
+    width: 20%;
+    min-height: 55vh;
+    border-radius: 5%;
+    padding: 15px 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-radius: 5%;
+    width: 90%;
+}
+
+
+h1 {
+    font-weight: 700;
+    width: 75%;
+    text-align: center;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    width: 70%;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+@media (min-width: 375px) {
+
+}
+
+@media (min-width: 1440px) {
+
+}
