@@ -44,4 +44,4 @@ I plan to continue practicing responsive design as well as my HTML/CSS skills.
 ## Author
 
 - Website - [My GitHub](https://github.com/micamash)
-- Frontend Mentor - [@micamash](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@micamash](https://www.frontendmentor.io/profile/micamash)
