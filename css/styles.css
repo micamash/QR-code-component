@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 body {
@@ -31,9 +31,9 @@ img {
 }
 
 h1 {
-    font-weight: 700;
     width: 300px;
     text-align: center;
+    font-weight: 600;
 }
 
 p {
@@ -51,15 +51,16 @@ p {
 
 @media only screen and (min-width: 375px) {
     section {
-        width: 375px;
+        width: 340px;
     }
     img {
-        width: 345px;
+        width: 310px;
     }
     h1 {
-        width: 315px;
+        width: 300px;
+        font-size: xx-large;
     }
     p {
-        width: 290px;
+        width: 205px;
     }
 }
