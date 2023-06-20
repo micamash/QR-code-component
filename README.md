@@ -17,10 +17,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Coode Component Screenshot](images/project-screenshot.png)
-
-QR Code Component Screenshot:
-
 [<img src="images/project-screenshot.png height="300"/>](QR-code-component)
 
 
